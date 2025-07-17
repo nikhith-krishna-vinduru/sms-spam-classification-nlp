@@ -19,29 +19,41 @@ requirements.txt – List of Python dependencies
 
 
 📊 **Models Used**
+
 Logistic Regression
+
 Naive Bayes
 
 
 ⚙️ **Tech Stack**
+
 Python
+
 Scikit-learn
+
 Pandas
+
 NLTK
+
 Jupyter Notebook
 
 
 📈 **Accuracy**
+
 Achieved a 95% F1-score using the best-performing model (Multinomial Naive Bayes) after thorough tuning and validation.
 
 
 📌 **Problem Statement**
+
 SMS spam messages are disruptive and harmful. The goal of this project is to build an intelligent spam detection system using machine learning models trained on natural language features extracted from SMS text messages.
 
 
 ▶️ **How to Run**
+
 **1.** Clone this repository
+
 **2.** Make sure you have Python 3.8+ and Jupyter Notebook installed
+
 **3.** Run the following commands:
 
 
@@ -53,12 +65,16 @@ jupyter notebook
 
 
 📦 **Installation**
+
 If **requirements.txt** is not available, manually install:
+
 
 pip install pandas scikit-learn nltk jupyter
 
 
 📄 **Reports and Presentation**
+
+
 **Final Report:** ML Final Project Report_Nikhith Krishna Vinduru.docx
 
 
@@ -66,4 +82,5 @@ pip install pandas scikit-learn nltk jupyter
 
 
 📜 **License**
+
 This project is open-source and available for educational use only.
