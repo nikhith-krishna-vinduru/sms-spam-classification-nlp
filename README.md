@@ -2,6 +2,7 @@
 
 This project focuses on identifying whether an SMS message is spam or not using natural language processing and machine learning techniques. It is built on a real-world dataset of labeled SMS messages and applies modern NLP methods for preprocessing and classification.
 
+
 📂 **Project Structure**
 **SMS-Spam-Classification-NLP/**
 
@@ -80,6 +81,7 @@ pip install pandas scikit-learn nltk jupyter
 
 **Presentation Slides:** SMS Spam Collection_Nikhith Krishna Vinduru.pptx
 
+**Result** Achieved 98.4% classification accuracy using TF-IDF vectorization and machine learning algorithms while minimizing false positives.
 
 📜 **License**
 
