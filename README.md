@@ -81,7 +81,7 @@ pip install pandas scikit-learn nltk jupyter
 
 **Presentation Slides:** SMS Spam Collection_Nikhith Krishna Vinduru.pptx
 
-**Result** Achieved 98.4% classification accuracy using TF-IDF vectorization and machine learning algorithms while minimizing false positives.
+**Result:-** Achieved 98.4% classification accuracy using TF-IDF vectorization and machine learning algorithms while minimizing false positives.
 
 📜 **License**
 
